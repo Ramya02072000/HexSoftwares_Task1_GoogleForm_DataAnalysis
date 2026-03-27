@@ -1,2 +1,11 @@
-# HexSoftwares_Task1_GoogleForm_DataAnalysis
-This project demonstrates data collection using Google Forms for Task 1 of my Data Science internship. The collected responses are structured into a CSV dataset and will be used for exploratory data analysis, preprocessing, and machine learning.
+# HexSoftwares Internship - Task 1  
+## Google Form Data Collection & Analysis
+
+---
+
+## 📖 Project Overview
+This project is part of my Data Science internship at Hex Softwares.  
+The objective of this task is to collect real-world data using Google Forms and convert it into a structured dataset for further analysis.
+
+---
+
