@@ -1,4 +1,6 @@
-# HexSoftwares Internship - Python Programming Task 1
+# HexSoftwares Internship - 
+
+#Python Programming Task 1
 
 ## 📖 Project Overview
 This repository contains my Task 1 submission for the Hex Softwares Internship. I have implemented multiple Python projects to demonstrate my programming skills.
